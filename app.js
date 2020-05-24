@@ -1,8 +1,4 @@
-var int1 = 1;
-var int2 = -10;
-var float1 = 3.14;
-var str1 = 'JavaScriptを覚えよう';
-alert(int1);
-alert(int2);
-alert(float1);
-alert(str1);
+alert(4+3);
+alert(8-5);
+alert(2*6);
+alert(10/2);
